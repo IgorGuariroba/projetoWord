@@ -27,4 +27,4 @@
 /wp-content/uploads/*
 
 # Exclude all logfiles
-*.log
+*.log.env
