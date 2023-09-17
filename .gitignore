@@ -28,3 +28,4 @@
 
 # Exclude all logfiles
 *.log.env
+.idea/
